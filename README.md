@@ -9,7 +9,7 @@ De la página de [Laboratoria](http://convocatoria.laboratoria.la/), seleccionar
 
 ## Mapa de sitio
 
-[Mapa de sitio - laboratoria](sitemap_laboratoria.png)
+[Mapa de sitio - laboratoria](./images/sitemap_laboratoria.png)
 
 
 ## Observaciones
@@ -39,7 +39,7 @@ De la página de [Laboratoria](http://convocatoria.laboratoria.la/), seleccionar
 * Al llegar a la última sección de Preguntas, ya ha sido demasiado texto oscuro con fondo blanco 
 
 
-[Sección ¿Qué es laboratoria? sin video]()
+[Sección ¿Qué es laboratoria? sin video](./images/screencapture-convocatoria-laboratoria-sin-video.png)
 
 
 ## Vista Seleccionada
