@@ -51,12 +51,15 @@ De la página de [Laboratoria](http://convocatoria.laboratoria.la/), seleccionar
 [Boceto](./images/IMG_20180402_114936168_2.jpg)
 
 * Colocar texto e imagen al mismo nivel
+
 Con esto garantizamos que el video no se pierda y las usuarias lo miren.
 
 * Justificar el texto para darle limpieza
+
 Ofrecer una noción de limpieza y orden colocando una caja de texto con el texto justificado.
 
 * Dejar el subtítulo (h2) sobre ambos
+
 Le damos la misma jerarquía al texto y al video, el subtítulo abarca a ambos por igual.
 
 [Wireframe](./images/view_prop.png)
